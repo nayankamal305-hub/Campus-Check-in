@@ -245,6 +245,19 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Developed as part of first-year Computer Science (AI Specialization) coursework at Vedam School of Technology, Bihar.
 
+## 🚀 Live Deployment
+
+The Campus Check-in application is deployed and accessible at the following URLs:
+
+- **Web Application (Vercel)**: [https://campus-check-in.vercel.app](https://campus-check-in.vercel.app)
+- **GitHub Repository**: [nayankamal305-hub/Campus-Check-in](https://github.com/nayankamal305-hub/Campus-Check-in)
+
+### Deployment Stack
+- **Frontend**: Next.js with React Native Web deployed on Vercel
+- **Backend**: Firebase (Firestore, Authentication, Storage)
+- **Maps**: Google Maps JavaScript API
+- **Mobile**: Expo Ready for iOS and Android
+
 ## 📞 Support & Contact
 
 For issues, feature requests, or questions:
